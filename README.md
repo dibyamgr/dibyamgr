@@ -43,3 +43,9 @@
 🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
+
+![image](https://user-images.githubusercontent.com/47945219/135723488-54d8a8e6-ef75-40f7-b796-27662afecf7b.png)
+
+![image](https://user-images.githubusercontent.com/47945219/135723516-b32949a3-6cd1-4d9e-97ed-493d1a016f13.png)
+
+
