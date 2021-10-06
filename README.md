@@ -44,6 +44,4 @@
 
 ```
 
-![image](https://user-images.githubusercontent.com/47945219/135723516-b32949a3-6cd1-4d9e-97ed-493d1a016f13.png)
-
 
