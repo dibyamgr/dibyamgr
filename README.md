@@ -29,10 +29,4 @@
 
 <br/>
 
-<a href="https://github.com/dibyamgr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dibyamgr&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyamgr&theme=buefy&layout=compact" />
-</a>
-
-
 
