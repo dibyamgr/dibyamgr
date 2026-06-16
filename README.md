@@ -2,7 +2,7 @@
 
 # Hi, I'm Dibya Rani Saru Magar 👩‍💻
 
-### Full Stack Developer | 7+ Years Building Scalable Web Apps
+### Full Stack Developer | 6+ Years Building Scalable Web Apps
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dibyamagar.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibyamagar.dev@gmail.com)
