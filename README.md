@@ -21,7 +21,7 @@ engineer:
   name: "Dibya Rani Saru Magar"
   role: "Full Stack Software Engineer"
   experience: "6+ years"
-  origin: "Kathmandu, Nepal 🇳🇵 → St. John's, NL 🇨🇦"
+  origin: "Kathmandu, Nepal 🇳🇵 → CA 🇨🇦"
   education: "MASc. Software Engineering, Memorial University of Newfoundland"
   focus:
     - Distributed systems & microservices architecture
@@ -145,11 +145,39 @@ Healthcare analytics & care management platform.
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyamgr&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF" width="48%" />
+
+</div>
+
+### 🐍 Contribution 
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dibyamgr/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
+---
+
 ### 🌱 Currently Exploring
 
 - 🤖 Agentic AI systems — LangChain, LangGraph, CrewAI, AutoGen
 - 🔍 Retrieval-Augmented Generation for production-grade knowledge tools
-- 🍜 Bringing authentic Nepali flavors to St. John's — a food venture on the side
 
 ---
 
@@ -160,6 +188,6 @@ Healthcare analytics & care management platform.
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dibyaranisarumagar)
 [![Email](https://img.shields.io/badge/-Say%20Hello-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibyamagar.dev@gmail.com)
 
-<sub>thanks for stopping by 🙌</sub>
+<sub>Thanks for stopping by 🙌</sub>
 
 </div>
