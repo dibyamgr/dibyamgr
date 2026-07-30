@@ -145,13 +145,29 @@ Healthcare analytics & care management platform.
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Developer Profile
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyamgr&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF" width="48%" />
+<img
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibyamgr&theme=tokyonight"
+  alt="Dibya's GitHub profile summary"
+/>
 
 </div>
+
+<div align="center">
+
+<img
+  width="32%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dibyamgr&theme=tokyonight"
+  alt="GitHub contribution summary"
+/>
+
+</div>
+
+---
 
 ### 🐍 Contribution 
 
@@ -159,7 +175,7 @@ Healthcare analytics & care management platform.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dibyamgr/snk/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
@@ -174,10 +190,57 @@ Healthcare analytics & care management platform.
 
 ---
 
-### 🌱 Currently Exploring
+### 🔬 Currently Engineering & Exploring
 
-- 🤖 Agentic AI systems — LangChain, LangGraph, CrewAI, AutoGen
-- 🔍 Retrieval-Augmented Generation for production-grade knowledge tools
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI Engineering
+
+- **LLM application architecture**
+- Retrieval-Augmented Generation using **vector embeddings**
+- Semantic and hybrid search pipelines
+- Document chunking, indexing and retrieval strategies
+- LLM evaluation, tracing and observability
+- Structured outputs and tool/function calling
+- Multi-agent orchestration with **LangGraph**
+- Context management and prompt engineering
+- Guardrails, grounding and hallucination reduction
+- Model integration through OpenAI and cloud AI APIs
+
+**Exploring**
+
+`LangChain` · `LangGraph` · `RAG` · `Vector Databases`  
+`Embeddings` · `Agentic Workflows` · `LLM Evaluation`  
+`Prompt Engineering` · `FastAPI` · `Python`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Data Engineering
+
+- Batch and event-driven data processing
+- ETL and ELT pipeline architecture
+- Distributed processing with **Apache Spark**
+- Data modelling for analytics and reporting
+- Data lake and warehouse architecture
+- Workflow orchestration and dependency management
+- Data validation, quality checks and observability
+- Incremental loading and change-data patterns
+- Cloud-native ingestion and transformation pipelines
+- Designing reliable, idempotent data workflows
+
+**Exploring**
+
+`Apache Spark` · `PySpark` · `Apache Airflow`  
+`AWS Glue` · `Amazon Redshift` · `S3 Data Lakes`  
+`Azure Data Factory` · `Databricks` · `Snowflake`  
+`Kafka` · `ETL/ELT` · `Data Warehousing`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -188,6 +251,19 @@ Healthcare analytics & care management platform.
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dibyaranisarumagar)
 [![Email](https://img.shields.io/badge/-Say%20Hello-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibyamagar.dev@gmail.com)
 
+<div align="center">
+
+<br/>
+
+> *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*
+
+**— Aristotle**
+
+<br/>
+
 <sub>Thanks for stopping by 🙌</sub>
+
+</div>
+
 
 </div>
